@@ -1,0 +1,4 @@
+- `energies_w_stable.pickle` contains numpy array dictionary mapped with "host-guest" string and [chemical potential of host, lower bound of chemical potential of guest, upper bound of chemical potential of guest].
+- `magpie_feature_w_preference.csv` contains host-guest pair Magpie featureset mapped with THH preference.
+- `result_1ML.txt` contains HT-DFT calculation results of host-guest surface energies on 100% coverages.
+- `result_hqML.txt` contains HT-DFT calculation results of host-guest surface energies on 50% (for (100), (110) facets) and 25% (for (111) facets) coverages.
